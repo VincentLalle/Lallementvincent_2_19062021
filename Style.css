@@ -10,8 +10,7 @@ html{
 
 
 /* Section Header */
-.header {
-}
+
 .nav_menu {
     display: flex ;
 }
@@ -67,8 +66,7 @@ html{
 
 
 /* Section recherche */
-.search {
-}
+
 .bouton {
     display: flex ;
     align-items: center ;
