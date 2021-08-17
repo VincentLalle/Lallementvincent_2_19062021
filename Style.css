@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* Police du site */
 html{
     font-family: "Raleway", sans-serif;
@@ -8,7 +7,6 @@ html{
     max-width: 1440px ;
     margin: auto ;
 }
-
 
 /* Section Header */
 
@@ -820,7 +818,7 @@ p {
     max-height: 140px ;
     min-width: 140px ;
 }}
-=======
+
 /* Police du site */
 html{
     font-family: "Raleway", sans-serif;
@@ -833,8 +831,6 @@ html{
 
 
 /* Section Header */
-.header {
-}
 .nav_menu {
     display: flex ;
 }
@@ -890,8 +886,6 @@ html{
 
 
 /* Section recherche */
-.search {
-}
 .bouton {
     display: flex ;
     align-items: center ;
@@ -928,11 +922,10 @@ html{
 #icon-glass {
     display: none ;
 }
-.submit:hover {
-    cursor: pointer ;
-    background-color: #0248af ;
+.submit:hover{
+    cursor: pointer;
+    background-color: #0248af;
 }
-
 
 /* Section filtres */
 .title_search {
@@ -1644,4 +1637,3 @@ p {
     max-height: 140px ;
     min-width: 140px ;
 }}
->>>>>>> 4dc4520c933831d4ae5495a17925ea8fade68249
